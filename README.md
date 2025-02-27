@@ -6,6 +6,8 @@ This is a simple script that uses the OpenAI API to generate responses to user i
 
 Users can express likes/dislikes for each message.
 
+![demo](./doc/img.png)
+
 ## Installation
 
 To install the required packages, run the following commands in your terminal:
